@@ -7,6 +7,12 @@ Create your `.env` file with your OpenAI Api key, more info -> [Where do I find 
 
 Then:
 
+- Install dependencies:
+
+```bash
+npm install
+```
+
 - Run the development server:
 
 ```bash
