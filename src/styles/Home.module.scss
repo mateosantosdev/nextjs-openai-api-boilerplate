@@ -1,0 +1,34 @@
+.main {
+  text-align: center;  
+  padding: 6rem;
+  h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+}
+
+.query {
+  margin-bottom: 1rem;
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  input {
+    width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+  }
+}
+
+.submit {
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  max-width: 150px;
+  margin: 0 auto;
+}
+
+.response {
+  text-align: center;
+}
